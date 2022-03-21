@@ -69,7 +69,7 @@ local Aiming = getgenv().Aiming
 -- // Create circle
 circle.Thickness = 0.1
 circle.NumSides = 3500
-circle.Radius = 50
+circle.Radius = 20
 circle.Visible = false
 circle.Filled = false
 

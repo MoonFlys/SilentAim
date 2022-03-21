@@ -1,5 +1,5 @@
 
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonFlys/SilentAim/main/SilentAim))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonFlys/SilentAim/main/main))()
 Aiming.TeamCheck(false)
 
 local Workspace = game:GetService("Workspace")
